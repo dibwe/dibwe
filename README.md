@@ -48,7 +48,7 @@
 ## 🎓 Certifications
 
 - ✅ **AWS Certified Solutions Architect – Associate**
-- ✅ **Microsoft Azure Administrator – AZ-104**
+- ✅ **Microsoft Azure Administrator – AZ-900**
 - ✅ **Terraform Associate – HashiCorp**
 - 🕐 En cours : Kubernetes CKA, GitHub Advanced Actions, Python avancé
 
