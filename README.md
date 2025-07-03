@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/photo-heber.png" alt="banner" style="width:100%; border-radius:10px;">
+  <img src="assets/background.jpg" alt="banner" width="800" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
+<h1 align="center">Salut, moi c'est Heber Dibwe 👋</h1>
 
 <p align="center">
   🌩️ Cloud DevOps Engineer | 🐍 Backend Python Developer | ☁️ Multi-cloud (AWS, Azure, GCP)
