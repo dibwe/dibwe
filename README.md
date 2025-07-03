@@ -20,7 +20,7 @@
 
 🔧I'm a Cloud DevOps Engineer and Backend Developer with a strong passion for building scalable, secure, and intelligent systems. I specialize in automating cloud infrastructure, developing microservice-based applications, and integrating modern technologies like AI and Big Data into production environments.
 
-With hands-on experience in AWS, Docker, Kubernetes, and Python-based backends (Django/FastAPI), I love bridging the gap between development and operations to deliver robust, cloud-native solutions.
+
 ---
 
 ## 💼 Compétences techniques
