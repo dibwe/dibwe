@@ -16,11 +16,6 @@
 
 ---
 
-## 🚀 À propos de moi
-
-🔧I'm a Cloud DevOps Engineer and Backend Developer with a strong passion for building scalable, secure, and intelligent systems. I specialize in automating cloud infrastructure, developing microservice-based applications, and integrating modern technologies like AI and Big Data into production environments.
-
-
 ------
 ## 💼 I’m available for freelance projects
 📧 You can reach me at **[heberdibwefita@gmail.com](mailto:heberdibwefita@gmail.com)
