@@ -21,7 +21,16 @@
 🔧I'm a Cloud DevOps Engineer and Backend Developer with a strong passion for building scalable, secure, and intelligent systems. I specialize in automating cloud infrastructure, developing microservice-based applications, and integrating modern technologies like AI and Big Data into production environments.
 
 
----
+------
+## 💼 I’m available for freelance projects
+
+📧 You can reach me at **[contact@satnaing.dev](heberdibwefita@gmail.com)**
+
+## 👨‍💻 I contribute to open-source projects
+
+If you find my work helpful, please consider **[sponsoring me](https://github.com/sponsors/dibwe)** 💖
+
+--------------
 
 ## 💼 Compétences techniques
 
@@ -65,7 +74,7 @@
 
 ---
 
-## 🔗 Me retrouver ailleurs
+## 🔗Connect with me
 <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
