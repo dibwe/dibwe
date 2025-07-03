@@ -50,10 +50,10 @@ I thrive in environments where cloud computing, data engineering, and machine in
 ---
 
 ## 📈 Stats GitHub
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibwe&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibwe&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dibwe&theme=radical&no-frame=true&title=Commits,Issues,PullRequest,Repositories,Stars,Contributed" />
 </p>
@@ -61,11 +61,23 @@ I thrive in environments where cloud computing, data engineering, and machine in
 ---
 
 ## 🔗 Me retrouver ailleurs
+<h3 align="center">🌐 Let's Connect</h3>
 
-- 🌐 [Portfolio](https://tonsite.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/heber-dibwe-fita/)
-- ✍️ [Medium / Blog](https://medium.com/@tonprofil)
-- 📫 Email : ton@email.com
+<p align="center">
+  <a href="https://tonsite.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/heber-dibwe-fita/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@tonprofil" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:ton@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
