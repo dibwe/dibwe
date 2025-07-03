@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="banner.png" alt="Heber Dibwe - Cloud DevOps Engineer" />
+  <img src="assets/photo-heber.png" alt="banner" style="width:100%; border-radius:10px;">
 </p>
 
+<h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
 <p align="center">
-🌩️ Cloud DevOps Engineer | 🐍 Backend Python Developer | ☁️ Multi-cloud (AWS, Azure, GCP)
+  🌩️ Cloud DevOps Engineer | 🐍 Backend Python Developer | ☁️ Multi-cloud (AWS, Azure, GCP)
 </p>
 
 ---
