@@ -3,7 +3,12 @@
 </p>
 
 
-<h1 align="center">Salut, moi c'est Heber Dibwe 👋</h1>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 28px; font-weight: bold; color: #2c3e50; font-family: 'Segoe UI', sans-serif;">
+    👋 Salut, moi c'est Heber Dibwe — Développeur passionné !
+  </marquee>
+</p>
+
 
 <p align="center">
   🌩️ Cloud DevOps Engineer | 🐍 Backend Python Developer | ☁️ Multi-cloud (AWS, Azure, GCP)
