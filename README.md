@@ -1,4 +1,7 @@
-<h1 align="center">👋 Salut, je suis Heber dibwe fita !</h1>
+<p align="center">
+  <img src="banner.png" alt="Heber Dibwe - Cloud DevOps Engineer" />
+</p>
+
 
 <p align="center">
 🌩️ Cloud DevOps Engineer | 🐍 Backend Python Developer | ☁️ Multi-cloud (AWS, Azure, GCP)
