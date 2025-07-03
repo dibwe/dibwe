@@ -52,10 +52,10 @@ I thrive in environments where cloud computing, data engineering, and machine in
 ## 📈 Stats GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dibwe&theme=radical&no-frame=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibwe&theme=radical" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibwe&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dibwe&theme=radical&no-frame=true&title=Commits,Issues,PullRequest,Repositories,Stars,Contributed" />
 </p>
 
 ---
