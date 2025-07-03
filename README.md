@@ -61,18 +61,6 @@ If you find my work helpful, please consider **[sponsoring me](https://github.co
 - 🕐 En cours : Kubernetes CKA, GitHub Advanced Actions, Python avancé
 
 ---
-
-## 📈 Stats GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibwe&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dibwe&theme=radical&no-frame=true&title=Commits,Issues,PullRequest,Repositories,Stars,Contributed" />
-</p>
-
----
-
 ## 🔗Connect with me
 <h3 align="center">🌐 Let's Connect</h3>
 
@@ -92,7 +80,24 @@ If you find my work helpful, please consider **[sponsoring me](https://github.co
 </p>
 
 
+
+
+--------
+
+## 📈 Stats GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibwe&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dibwe&theme=radical&no-frame=true&title=Commits,Issues,PullRequest,Repositories,Stars,Contributed" />
+</p>
+
 ---
+
+
+
+
 
 🎉 Merci de visiter mon profil !
 
