@@ -23,8 +23,7 @@
 
 ------
 ## 💼 I’m available for freelance projects
-
-📧 You can reach me at **[contact@satnaing.dev](heberdibwefita@gmail.com)**
+📧 You can reach me at **[heberdibwefita@gmail.com](mailto:heberdibwefita@gmail.com)
 
 ## 👨‍💻 I contribute to open-source projects
 
