@@ -52,9 +52,8 @@ I thrive in environments where cloud computing, data engineering, and machine in
 ## 📈 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dibwe=true&theme=radical" alt="stats github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibwe&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
 ---
 
 ## 🔗 Me retrouver ailleurs
