@@ -5,7 +5,7 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 28px; font-weight: bold; color: #2c3e50; font-family: 'Segoe UI', sans-serif;">
-    👋 Salut, moi c'est Heber Dibwe — Développeur passionné !
+    👋 Hi, I'm Heber Dibwe!
   </marquee>
 </p>
 
@@ -42,9 +42,9 @@ If you find my work helpful, please consider **[sponsoring me](https://github.co
 
 ## 📂 Projets en cours
 
-🚧 Déploiement d’une plateforme SaaS cloud-native avec CI/CD automatisé  
-🚀 Intégration d’un moteur IA dans un backend Django (via API REST)  
-☁️ Infrastructure cloud hybride gérée avec Terraform + Ansible  
+🚀 Deployment of a cloud-native SaaS platform with automated CI/CD
+🧠 Integration of an AI engine into a Django backend (via REST API)
+☁️ Hybrid cloud infrastructure managed with Terraform + Ansible
 
 ---
 
@@ -94,7 +94,7 @@ If you find my work helpful, please consider **[sponsoring me](https://github.co
 
 
 
-🎉 Merci de visiter mon profil !
+🎉Thank you for visiting my profile.!
 
 
 
