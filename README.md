@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/photo-heber.png" alt="bannière" width="600" style="border-radius: 8px;" />
+  <img src="assets/photo-heber.png" alt="bannière pro" width="1000" height="250" style="border-radius: 8px;" />
 </p>
 
 
