@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/photo-heber.png" alt="banner" width="800" style="border-radius: 12px;" />
+  <img src="assets/photo-heber" alt="bannière" width="600" style="border-radius: 8px;" />
 </p>
+
 
 <h1 align="center">Salut, moi c'est Heber Dibwe 👋</h1>
 
