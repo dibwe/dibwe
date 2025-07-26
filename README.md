@@ -40,11 +40,6 @@ If you find my work helpful, please consider **[sponsoring me](https://github.co
 
 ---
 
-## 📂 Projets en cours
-
-🚀 Deployment of a cloud-native SaaS platform with automated CI/CD
-🧠 Integration of an AI engine into a Django backend (via REST API)
-☁️ Hybrid cloud infrastructure managed with Terraform + Ansible
 
 ---
 
